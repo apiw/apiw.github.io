@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://apiw.github.io/categories/</loc>
+    <loc>https://apiw.github.io/posts/my-first-post/</loc>
+    <lastmod>2019-02-21T02:31:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apiw.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://apiw.github.io/</loc>
+    <loc>https://apiw.github.io/</loc>
+    <lastmod>2019-02-21T02:31:41+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://apiw.github.io/tags/</loc>
+    <loc>https://apiw.github.io/posts/</loc>
+    <lastmod>2019-02-21T02:31:41+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://apiw.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
