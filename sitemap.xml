@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://apiw.github.io/posts/sheer-vastness-of-hugo-themes/</loc>
+    <lastmod>2019-02-27T00:00:01+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://apiw.github.io/posts/on-chess-vs-rts/</loc>
     <lastmod>2019-02-27T00:00:00+02:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   
   <url>
     <loc>https://apiw.github.io/</loc>
-    <lastmod>2019-02-27T00:00:00+02:00</lastmod>
+    <lastmod>2019-02-27T00:00:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://apiw.github.io/posts/</loc>
-    <lastmod>2019-02-27T00:00:00+02:00</lastmod>
+    <lastmod>2019-02-27T00:00:01+02:00</lastmod>
     <priority>0</priority>
   </url>
   

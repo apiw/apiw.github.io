@@ -6,10 +6,19 @@
     <description>Recent content on My Verbal Diarrhea (in Hugo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:01 +0200</lastBuildDate>
     
 	<atom:link href="https://apiw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sheer vastness of hugo themes</title>
+      <link>https://apiw.github.io/posts/sheer-vastness-of-hugo-themes/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:01 +0200</pubDate>
+      
+      <guid>https://apiw.github.io/posts/sheer-vastness-of-hugo-themes/</guid>
+      <description>1. &amp;lsquo;What themes?&amp;rsquo; .. &amp;lsquo;I just want my static blog g*ddammit!&amp;rsquo; &amp;hellip; so googled-up this nice post about github.com&amp;rsquo;s &amp;lsquo;stars&amp;rsquo; amount comparator for hugo themes,, called &amp;lsquo;hugo themes report&amp;rsquo; and on it&amp;rsquo;s github page there&amp;rsquo;s a link to a &amp;lsquo;live result&amp;rsquo;.</description>
+    </item>
     
     <item>
       <title>On turn based strategy versus RTS</title>
@@ -18,7 +27,7 @@
       
       <guid>https://apiw.github.io/posts/on-chess-vs-rts/</guid>
       <description>1. So recently I&amp;rsquo;ve been staying home a lot and been playing a lot of games, and came accross this philosophical discussion about strategy, turn based games, and other types of games:
-- Highlights from this post I liked:  1. In every balanced competitive game, the game is only as difficult as your opponent. The top level Go players have put more time into mastering the game than the top level Starcraft players.</description>
+- Highlights from this post that I liked:  1. In every balanced competitive game, the game is only as difficult as your opponent. The top level Go players have put more time into mastering the game than the top level Starcraft players.</description>
     </item>
     
     <item>
