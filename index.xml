@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Verbal Diarrhea</title>
+    <title>My Verbal Diarrhea (in Hugo)</title>
     <link>https://apiw.github.io/</link>
-    <description>Recent content on My Verbal Diarrhea</description>
+    <description>Recent content on My Verbal Diarrhea (in Hugo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0200</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0200</pubDate>
       
       <guid>https://apiw.github.io/posts/on-chess-vs-rts/</guid>
-      <description>1. Check.</description>
+      <description>1. So recently I&amp;rsquo;ve been staying home a lot and been playing a lot of games, and came accross this philosophical discussion about strategy, turn based games, and other types of games:
+- Highlights from this post I liked:  1. Even with perfect strategy, you will still lose Starcraft matches if your &#39;micro-skills&#39;, control, reaction, etc, aren&#39;t good enough.</description>
     </item>
     
     <item>
