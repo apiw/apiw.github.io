@@ -1,0 +1,18 @@
+---
+title: "On turn based strategy versus RTS"
+date: 2019-02-27T00:00:00+02:00
+draft: false
+---
+
+1\. So recently I've been staying home a lot and been playing a lot of games, and came accross 
+this [philosophical discussion] (https://www.reddit.com/r/baduk/comments/32we4d/serious_what_requires_more_strategy_rtss_or_go/) 
+about strategy, turn based games, and other types of games:  
+
+\- Highlights from this post that I liked: <br/>
+1\. `In every balanced competitive game, the game is only as difficult as your opponent. The top level Go players have put more time 
+into mastering the game than the top level Starcraft players. That means, to rise to the top, it (on average) requires more 
+practice/inherent skill for Go than Starcraft.` <br/>
+2\. `Even with perfect strategy, you will still lose Starcraft matches if your 'micro-skills', control, reaction, etc, aren't 
+good enough.`
+
+
